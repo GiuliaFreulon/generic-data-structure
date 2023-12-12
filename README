@@ -1,0 +1,3 @@
++ Para rodar o código escreva no terminal: 
+> gcc prog.c gcofo.c
+> .\a.exe
