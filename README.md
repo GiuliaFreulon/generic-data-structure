@@ -11,7 +11,7 @@
 ## Features
 - **Insert Student**: Adds a new student with name, ID, and grade
 - **Remove Student**: Removes a specific student
-- **Find Student**: Searches for a student by name
+- **Find Student**: Searches for a student
 - **List Students**: Lists all stored students
 - **Empty Structure**: Removes all students from the structure
 - **Destroy Structure**: Frees all memory allocated by the structure
