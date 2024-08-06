@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/Generic_Data_Structure.png" alt="Generic Data Structure Banner" />
+</p>
+
 ## Overview
 - This is a generic data structure in C with an interactive terminal menu
 - It allows you to manage student data, including functionalities to insert, remove, find, list, empty, and destroy student records
@@ -30,3 +34,6 @@ To compile and run this project, follow these steps:
 4. Run the program:
    ```bash
    ./my_program
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
